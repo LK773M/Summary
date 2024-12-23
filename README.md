@@ -1,8 +1,9 @@
-<h1 align="center" style="color: black; font-family: Monospace;">_by: ahmed_amine</h1>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&color=000000&center=true&vCenter=true&width=700&height=80&lines=NewCo+%2F+Unit-T;Voice+Bot+Project" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=80&color=000000&center=true&vCenter=true&width=1000&height=100&lines=NewCo+%2F+Unit-T;Voice+Bot&duration=3000" />
 </h1>
+
+
+<h3 align="center" style="color: black; font-family: Monospace;">_by: ahmed_amine</h3>
 
 ---
 
