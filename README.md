@@ -50,4 +50,4 @@
 
 ---
 
-<h3 align="center" style="color: black; font-family: Monospace;">💻 Ready for Deployment? Let's Talk! 💻</h3>
+<h3 align="center" style="color: black; font-family: Monospace;">💻 Feel free to reach out ! 💻</h3>
