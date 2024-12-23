@@ -9,7 +9,7 @@
     🔗 <a href="https://github.com/LK773M/ahmed-amine-resources.git">Here</a>
 </div>
 
-**Description**: Make.com (.json) flows blueprints + ElevenLabs prompts.
+**json flows + prompts**: Make.com (.json) flows blueprints + ElevenLabs prompts.
 
 ---
 
@@ -34,7 +34,6 @@
 - **Frontend**: 🎨 React-based interface for interacting with the calendar.
 - **Features**:
   - 🗓️ Event creation, deletion, and updates.
-  - 🔑 Integration with service account keys for Google Calendar API.
 
 ---
 
