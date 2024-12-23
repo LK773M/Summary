@@ -47,7 +47,6 @@
 - **Frontend**: 🎨 React-based interface for interacting with the calendar.
 - **Features**:
   - 🗓️ Event creation, deletion, and updates.
-  - 🔑 Integration with Google Calendar API.
 
 ---
 
